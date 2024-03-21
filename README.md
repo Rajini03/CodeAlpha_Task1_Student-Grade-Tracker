@@ -1,0 +1,1 @@
+I have created a program that enables teachers to input students' grades and calculate their average, highest, and lowest scores. Additionally, I have established a separate class called "Student" to store students' information, including their grades.
